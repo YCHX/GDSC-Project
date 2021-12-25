@@ -1,4 +1,3 @@
-# GDSC-Project
-# Backend Team Group B
+# GDSC-Project Backend Team Group B
 
-# The idea of the project have not beed determined yet.
+## Project Idea: To-do List
