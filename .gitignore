@@ -1,1 +1,4 @@
 .venv
+todo_app/changeStatus/__pycache__
+todo_app/todo_app/__pycache__
+todo_app/changeStatus/migrations/__pycache__
